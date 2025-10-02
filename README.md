@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">🎯 Goals: To advance as a full-stack developer by focusing on backend architecture and cloud infrastructure, while leveraging my skills in C#, .NET Core, Java, and SQL across diverse projects. Additionally, I'm actively improving my front-end skills with React.js</h4>
+<h4 align="left">🎯 Goals: To advance as a full-stack developer by focusing on backend architecture and cloud infrastructure, while leveraging my skills in C#, .NET Core, NodeJS, and SQL across diverse projects. Additionally, I'm actively improving my front-end skills with React.js</h4>
 
 ###
 
