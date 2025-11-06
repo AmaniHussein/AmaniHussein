@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Junior Software Developer | .NET | NodeJS </h2>
+<h2 align="center">Junior Software Developer | C# .NET | NodeJS </h2>
 
 ###
 
