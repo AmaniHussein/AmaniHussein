@@ -34,6 +34,8 @@
 ###
 
 <div align="center">
+  <img src="[https://skillicons.dev/icons?i=wordpress](https://repository-images.githubusercontent.com/193215554/df34b36d-279c-496c-91c2-959dd9c9f13d)" height="40" alt="wordpress logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
