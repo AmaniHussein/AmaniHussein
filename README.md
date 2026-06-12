@@ -36,6 +36,8 @@
 <div align="center">
   <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;""  />
   <img width="12" />
+  <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;""  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
