@@ -36,8 +36,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/n8n.svg" height="24" width="24" alt="n8n logo" style="vertical-align: middle; padding: 8px; background-color: #1a1a1a; border-radius: 10px;" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
