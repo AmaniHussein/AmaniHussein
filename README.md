@@ -25,7 +25,9 @@
 
 ###
 
-<h4 align="left">🎯 Goals: To advance as a full-stack developer by focusing on backend architecture and cloud infrastructure, while leveraging my skills in C#, .NET Core, NodeJS, and SQL across diverse projects. Additionally, I'm actively improving my front-end skills with React.js</h4>
+<h4 align="left">🎯 Goals: Software Developer and AI Automation Engineer with experience in AI automation, backend development, and web development. Skilled in C#, .NET Core, Node.js, WordPress, and modern web technologies, with hands-on experience building AI-driven workflows, backend systems, and scalable web applications.
+
+Passionate about building efficient, reliable solutions and solving real-world problems through technology. Continuously expanding my expertise in AI, automation, software engineering, and emerging technologies while developing practical solutions that deliver value.</h4>
 
 ###
 
