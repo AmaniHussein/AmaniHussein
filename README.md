@@ -70,7 +70,7 @@ Passionate about building efficient, reliable solutions and solving real-world p
   <img width="12" />
   <a href="#" style="text-decoration: none; pointer-events: none; display: inline-block;"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="user-select: none;" /></a>
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none; display: inline-block;"><img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" /></a>
+  <a href="#" style="text-decoration: none; pointer-events: none; display: inline-block;"><img src="https://images.seeklogo.com/logo-png/10/1/php-logo-png_seeklogo-108600.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" /></a>
 </div>
 
 ###
