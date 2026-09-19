@@ -37,109 +37,41 @@ Passionate about building efficient, reliable solutions and solving real-world p
 
 ###
 
-<div align="center">
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" />
-    </span>
-  </a>
+<p align="center">
+  <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" />
-    </span>
-  </a>
+  <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" />
-    </span>
-  </a>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" style="user-select: none;" />
-    </span>
-  </a>
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
   <img width="12" />
-  <a href="#" style="text-decoration: none; pointer-events: none;">
-    <span style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="user-select: none;" />
-    </span>
-  </a>
-</div>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+</p>
 
 ###
 
