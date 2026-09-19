@@ -38,73 +38,107 @@ Passionate about building efficient, reliable solutions and solving real-world p
 ###
 
 <div align="center">
-  <span style="display: inline-block;">
-    <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box;" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" style="user-select: none;" />
+    </span>
+  </a>
   <img width="12" />
-  <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  </span>
+  <a href="#" style="text-decoration: none; pointer-events: none;">
+    <span style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" style="user-select: none;" />
+    </span>
+  </a>
 </div>
 
 ###
