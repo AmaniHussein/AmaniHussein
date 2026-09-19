@@ -28,6 +28,7 @@
 <h4 align="left">🎯 Goals: Software Developer and AI Automation Engineer with experience in AI automation, backend development, and web development. Skilled in C#, .NET Core, Node.js, WordPress, and modern web technologies, with hands-on experience building AI-driven workflows, backend systems, and scalable web applications.
 
 
+
 Passionate about building efficient, reliable solutions and solving real-world problems through technology. Continuously expanding my expertise in AI, automation, software engineering, and emerging technologies while developing practical solutions that deliver value.</h4>
 
 ###
@@ -37,6 +38,7 @@ Passionate about building efficient, reliable solutions and solving real-world p
 ###
 
 <div align="center">
+  <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box;""  />
   <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box;""  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box;""  />
