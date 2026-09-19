@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">🎯 Goals: Software Developer and AI Automation Engineer with experience in AI automation, backend development, and web development. Skilled in C#, .NET Core, Node.js, WordPress, and modern web technologies, with hands-on experience building AI-driven workflows, backend systems, and scalable web applications.
+<h4 align="left">🎯 Software Developer and AI Automation Engineer with experience in AI automation, backend development, and web development. Skilled in C#, .NET Core, Node.js, WordPress, and modern web technologies, with hands-on experience building AI-driven workflows, backend systems, and scalable web applications.
 
 
 
