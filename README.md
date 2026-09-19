@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">🎯 Software Developer and AI Automation Engineer with experience in AI automation, backend development, and web development. Skilled in C#, .NET Core, Node.js, WordPress, and modern web technologies, with hands-on experience building AI-driven workflows, backend systems, and scalable web applications.<br /><br />Passionate about building efficient, reliable solutions and solving real-world problems through technology. Continuously expanding my expertise in AI, automation, software engineering, and emerging technologies while developing practical solutions that deliver value.</h4>
+<p align="left">🎯 <b>Software Developer and AI Automation Engineer</b> with experience in AI automation, backend development, and web development. Skilled in C#, .NET Core, Node.js, WordPress, and modern web technologies, with hands-on experience building AI-driven workflows, backend systems, and scalable web applications.<br /><br />Passionate about building efficient, reliable solutions and solving real-world problems through technology. Continuously expanding my expertise in AI, automation, software engineering, and emerging technologies while developing practical solutions that deliver value.</p>
 
 ###
 
