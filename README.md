@@ -38,7 +38,7 @@ Passionate about building efficient, reliable solutions and solving real-world p
 ###
 
 <div align="center">
-  <a href="#" style="text-decoration: none; pointer-events: none;">
+  <a href="#" style="text-decoration: none !important; pointer-events: none;">
   <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8px; background-color: #EA4B71; border-radius: 10px !important; box-sizing: border-box; pointer-events: none; user-select: none;" />
 </a>
   <img width="12" />
