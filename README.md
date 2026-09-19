@@ -38,11 +38,11 @@ Passionate about building efficient, reliable solutions and solving real-world p
 ###
 
 <div align="center">
-  <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box;""  />
+  <img src="https://cdn.miniapps.ai/images/tools/3ad5aad3b0050a4e5aced.png" height="40" width="40" alt="claude code logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box; pointer-events: none; user-select: none;"  />
   <img width="12" />
   <img src="https://img.5xcamp.us/i/2732381b-be89-478f-9f82-7d63beed4d81.png" height="40" width="40" alt="n8n logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box;""  />
   <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box;""  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png" height="40" width="40" alt="elementor logo" style="vertical-align: middle; padding: 8 px; background-color: #EA4B71; border-radius: 10 px ! important; box-sizing: border-box; pointer-events: none; user-select: none;"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
